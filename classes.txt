@@ -1,4 +1,0 @@
-TerrorComment
-TerrorAction
-ExtremismComment
-ExtremismAction
